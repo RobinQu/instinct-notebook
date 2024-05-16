@@ -1,0 +1,11 @@
+cmake-*
+.idea
+.DS_Store
+__pycache__
+build
+CMakeUserPresets.json
+rag_evaluation/data
+rag_evaluation/output
+.env
+.ipynb_checkpoints
+openai-test/output
