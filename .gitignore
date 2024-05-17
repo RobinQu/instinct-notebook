@@ -9,3 +9,4 @@ rag_evaluation/output
 .env
 .ipynb_checkpoints
 openai-test/output
+agent_evaluation/output
